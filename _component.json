@@ -12,7 +12,6 @@
     "dim-team/dispatcher": "1.0.1",
     "dim-team/clearout": "1.0.0",
     "dim-team/scroller": "1.0.0",
-    "dim-team/listview": "1.0.0",
-    "dim-team/lazyload": "1.0.1"
+    "dim-team/listview": "1.0.0"
   }
 }
