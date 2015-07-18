@@ -24,5 +24,5 @@
 
 ######Email：JerroldLi@163.com
 
-!['lallal'](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3223007116&token=1175507965&style=1)
+!['lallal']('https://mp.weixin.qq.com/misc/getqrcode?fakeid=3223007116&token=1175507965&style=1')
 
