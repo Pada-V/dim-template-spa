@@ -1,4 +1,6 @@
-dim-template-webapp
+dim-template-spa(Develop In Modularization-Template-Single Page Application)
+-------------
+前端模块化开发单页面应用框架
 -------------
 1、安装nodejs环境
 -------------
