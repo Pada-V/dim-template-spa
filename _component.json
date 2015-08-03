@@ -1,6 +1,6 @@
 {
   "name": "dim-spa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "dim-team/zepto": "1.1.6-2",
     "dim-team/fastclick": "1.0.4",
