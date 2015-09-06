@@ -1,15 +1,15 @@
 {
   "name": "dim-spa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "dim-team/zepto": "1.1.6-2",
     "dim-team/fastclick": "1.0.4",
-    "dim-team/basepage": "1.0.2",
+    "dim-team/basepage": "1.0.3",
     "dim-team/baseapi": "1.0.1",
     "dim-team/spaconfig": "1.0.0",
     "dim-team/runtime": "1.0.0",
     "dim-team/tploader": "1.0.3",
-    "dim-team/dispatcher": "1.0.2",
+    "dim-team/dispatcher": "1.0.3",
     "dim-team/clearout": "1.0.0",
     "dim-team/scroller": "1.0.0"
   }
